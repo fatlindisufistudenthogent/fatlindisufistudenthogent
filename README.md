@@ -6,8 +6,6 @@
 
 > Some of my school projects
 
-<br>
-
 **Contact**
 
 🔗 [LinkedIn](https://www.linkedin.com/FatlindIsufi) | <!-- fixen -->
