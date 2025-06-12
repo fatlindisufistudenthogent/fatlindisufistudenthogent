@@ -1,3 +1,5 @@
+![alternate text](https://github.com/user-attachments/assets/e68aae68-1316-4af1-958e-a81b72997a55)
+
 **School work**
 
 🔐 [Cybersecurity](https://github.com/fatlindisufistudenthogent/cyber-npe-opdracht) |
