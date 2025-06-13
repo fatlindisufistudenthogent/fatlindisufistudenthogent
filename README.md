@@ -1,4 +1,4 @@
-![alternate text](https://github.com/user-attachments/assets/e68aae68-1316-4af1-958e-a81b72997a55)
+<img src='https://github.com/user-attachments/assets/e68aae68-1316-4af1-958e-a81b72997a55' style='width: 10vw;'>
 
 **School work**
 
